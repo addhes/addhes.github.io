@@ -288,6 +288,8 @@ img{
 }
 .portfolio__img img{
     border-radius: .5rem;
+    height: 390px;
+    width: 300px;
 }
 .portfolio__link{
     position: absolute;
